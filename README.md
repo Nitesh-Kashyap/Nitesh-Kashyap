@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Rails Projects
 - 📫 How to reach me Email - nitesh.krjs@gmail.com | Mobile - +91-8789790170
 - 📫 LinkedIn - https://www.linkedin.com/in/nitesh-kashyap
-- 📫 Portfolio - https://nitesh.devonrails.in
 
 <!---
 Nitesh-Kashyap/Nitesh-Kashyap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
